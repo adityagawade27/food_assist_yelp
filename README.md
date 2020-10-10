@@ -1,12 +1,12 @@
-h4. Food Assistant Script
+<h4> Food Assistant Script</h4>
 
 If you are having a heard time deciding where to eat; this script makes it a bit easier.
 It gives you 5 cuisine options and gets you top 3 restaurants based on ratings from  the cuisine you select.
 It then opens a yelp page for the restaurant so you can browse menu and order :)
 
 Requires:
-A file called api.key in directory of the script that contains the Yelp Fusion API key
-The file simply contains the key and nothing else
+A file called api.key in directory of the script that contains the Yelp Fusion API key.
+The file simply contains the key and nothing else.
 For API key details refer: https://www.yelp.com/developers/documentation/v3/authentication
 
 Python 3.8 Libraries used:
@@ -30,6 +30,7 @@ Here are your options--
 5.Chinese
 
 Enter No: 1
+
 Top 3 restaurants of cuisine ramen:
 1. Name: Ramen Mori, Rating: 5.0
 
